@@ -1,0 +1,16 @@
+.right_panel{
+    border-left: 2px dashed #339;
+}
+
+.left_panel table{
+    margin-top: 35px;
+}
+
+.container {
+    margin-top: 35px;
+}
+
+.label-as-badge {
+    border-radius: 1em;
+    background: #ec971f;
+}
