@@ -18,7 +18,8 @@ Project Work:
 2. Intergrated postgresql
 3. Integrated Frontend with AngularJS
 4. Activated Django Admin Panel
-5. Unit Testing (python manage.py test catalogue.tests/python manage.py test)
+5. Twitter Bootstrap
+6. Unit Testing (python manage.py test catalogue.tests/python manage.py test)
 
 Project Screenshots:
 
